@@ -22,6 +22,12 @@
 
         <div class="row">
             <div class="col-md-12">
+                
+                <div class="">
+                <p>Equiteq is the leading global investment bank for the Knowledge Economy.
+                <br>Equiteq provides merger, acquisition and advisory services.</p>
+                </div>
+
                 <div class="footer-menu row pt-3 pb-3">
                     <?php hm_get_template_part('template-parts/navigation/navigation-footer');?>
                 </div>
